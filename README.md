@@ -10,7 +10,7 @@ Not: Sol taraftaki veriler Mac kurulumu için sağ taraftaki veriler Windows kur
 Projeyi Kurma  
 
 ```bash
- git clone 
+ git clone https://github.com/tarikberkay/edu.git
 ```
 
 Sanal Ortam Oluşturma
@@ -93,13 +93,7 @@ Sınıfları getirir.
 
 
 
-#### Öğeyi getir
 
-```http
-  http://127.0.0.1:8000/register/
-```
-
-Register Ekranını getirir.
 
 
 
